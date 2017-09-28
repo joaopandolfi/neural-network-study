@@ -1,0 +1,5 @@
+npm install convnetjs
+npm install convnetjs-ts
+
+var conv = require("convnetjs");
+import { deepqlearn } from "convnetjs-ts";
